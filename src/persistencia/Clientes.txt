@@ -1,0 +1,8 @@
+Jhonny Fernando--Ocampo Londoño--1094917567--27--Masculino--Jhonnyokmpo24@hotmail.com--24/12/1990--shonny--123--¿Cómo se llama su mascota?--Rambito--ADMIN--AH-7,,AH-8,,AH-9,,AH-10,,AH-11,,AH-12,,AH-13,,AH-14,,AH-15,,AH-16,,AH-17,,AH-18,,CO-9,,CD-2,,CD-2,,CD-6,,
+Sergio Alejandro--Castaño Echeverri--1094971817--19--Masculino--castanoalejo4@gmail.com--9/12/1998--AlejandroJava--Alejandroleomejor--¿Cuál es su comida favorita?--Arroz chino--CLIENTE--AH-22,,CO-10,,
+user--user--123--30--Masculino --user--10/04/2018--user--123--¿Cómo se llama su mascota?--123--CLIENTE--AH-5,,AH-6,,
+pinzon--pinzon--12--3--Masculino --pinzon--8/04/2014--pinzon--pinzon--¿Cómo se llama su mascota?--pinzon--CLIENTE--
+usuario--user--1032--24--Masculino --juankl--15/04/1993--uno--uno--¿Cómo se llama su mascota?--uno--CLIENTE--
+Alejandro--123456--1233--24--Masculino --123@123.com--2/04/2018--dos--123--¿Cómo se llama su mascota?--jhonny--CLIENTE--AH-4,,CO-4,,CO-5,,CO-6,,CD-3,,CD-4,,AH-20,,CO-7,,
+Juan Carlos--Pinzon--1097398936--25--Masculino --Juank.-16@hotmail.com--31/08/1992--Juank5680--123--¿Cómo se llama su mascota?--pimpom--CLIENTE--AH-1,,AH-2,,AH-3,,AH-1,,AH-2,,AH-3,,AH-1,,AH-2,,AH-3,,CO-1,,CO-2,,CO-3,,CD-1,,CD-2,,
+Holas--Hola Holass--123456--13--Femenino--jjj@jjj.com--3/05/2005--hola--hola--¿Cuál es el nombre de su madre?--3333--CLIENTE--AH-19,,CO-8,,AH-21,,AH-17,,AH-21,,AH-19,,AH-19,,AH-19,,AH-19,,AH-19,,AH-21,,CO-8,,AH-21,,AH-19,,AH-19,,AH-21,,CD-5,,CD-6,,CD-6,,
